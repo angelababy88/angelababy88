@@ -1,5 +1,3 @@
-# Profile README（建同名仓库 angelababy88/angelababy88 用）
-
 ## Hi, I'm building AI tooling notes 👋
 
 专注折腾大模型工具链：Cursor、Claude Code、Cherry Studio、Cline 的接入与配置踩坑。
